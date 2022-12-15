@@ -8,6 +8,7 @@
 *
 * Return: nothing
 */
+
 void f_pchar(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
