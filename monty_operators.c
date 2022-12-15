@@ -7,6 +7,7 @@
 *
 * Return: nothing
 */
+
 void f_add(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
@@ -40,6 +41,7 @@ void f_add(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_sub(stack_t **head, unsigned int counter)
 {
 	stack_t *temp;
@@ -70,6 +72,7 @@ void f_sub(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_mul(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
@@ -103,6 +106,7 @@ void f_mul(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_div(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
@@ -145,6 +149,7 @@ void f_div(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_mod(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
