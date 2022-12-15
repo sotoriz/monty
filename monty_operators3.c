@@ -7,6 +7,7 @@
 *
 * Return: nothing
 */
+
 void f_pop(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
@@ -31,6 +32,7 @@ void f_pop(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
@@ -51,6 +53,7 @@ void f_pint(stack_t **head, unsigned int counter)
 *
 * Return: nothing
 */
+
 void f_nop(stack_t **head, unsigned int counter)
 {
 	(void) counter;
