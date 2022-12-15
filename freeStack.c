@@ -6,6 +6,7 @@
 *
 * Return: nothing
 */
+
 void free_stack(stack_t *head)
 {
 	stack_t *temp;
@@ -26,6 +27,7 @@ void free_stack(stack_t *head)
 *
 * Return: nothing
 */
+
 void f_stack(stack_t **head, unsigned int counter)
 {
 	(void)head;
