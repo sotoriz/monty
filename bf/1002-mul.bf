@@ -20,4 +20,4 @@
 <-] MOVE BLOCK TO BLOCK 2 AND DECREASE (DONE WITH ONE ITERATION)
 
 # MOVE TO BLOCK 0 AND INCREASE BY ASCII '0' (DEC 48)
-<<++++++++++++++++++++++++++++++++++++++++++++++++.
+<<++++++++++++++++++++++++++++++++++++++++++++++++
